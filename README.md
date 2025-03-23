@@ -1,3 +1,4 @@
+My changes to Readme from week 1 were erased. Will fix once I get a solution.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
