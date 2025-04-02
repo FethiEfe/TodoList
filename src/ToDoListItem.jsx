@@ -1,7 +1,7 @@
-function TodoListItem(props){
-    const todo = props.todo;
+function TodoListItem({todo}){
     return(
-        <li>{todo.title}</li>
+        // treat todo as a string not an object
+        <li>{todo}</li>
     );
 }
 export default TodoListItem;
