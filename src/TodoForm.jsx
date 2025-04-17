@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 
-function TodoForm({onAddTodo}) {
+function TodoList({onAddTodo}) {
   const todoTitleInput = useRef();
   const [workingTodo, setWorkingTodo] = useState("");
 
@@ -31,4 +31,4 @@ function TodoForm({onAddTodo}) {
     </form>
   );
 }
-export default TodoForm;
+export default TodoList;
