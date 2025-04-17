@@ -1,4 +1,9 @@
-
+#root {
+  max-width: 1290px;
+  margin: 10;
+  padding: 2rem;
+  text-align: end;
+}
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
