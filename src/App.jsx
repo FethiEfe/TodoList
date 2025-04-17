@@ -23,7 +23,7 @@ function App() {
     })
      setTodoList(updatedTodos);
   }
-
+ // addressed PR comments
   return (
     <div>
       <h1>Todo List</h1>
